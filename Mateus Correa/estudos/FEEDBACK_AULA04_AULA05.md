@@ -1,9 +1,30 @@
-Aula 04. Nota: 0,10 de 0,10.
+# Feedback individual — Mateus Correa
 
-Seu index.html tem os scripts de React, Babel e o type="text/babel" e a página abre. A estrutura de componentes está montada com tema Nexus.
+Mateus, sua nota registrada neste levantamento é **2,30 pontos**.
 
-Aula 05. Nota: 0,10 de 0,10.
+| Atividade | Nota | Situação |
+|---|---:|---|
+| Aula 01 | 0,05 | Entrega parcial, com nota reduzida conforme o lançamento. |
+| Aula 02 | 0,05 | Entrega parcial, com nota reduzida conforme o lançamento. |
+| Aula 03 | 0,00 | Não foi localizada entrega válida. |
+| Aula 04 | 0,10 | Entrega registrada com nota integral. |
+| Aula 05 — JSX | 0,10 | Entrega registrada com nota integral. |
+| Checkpoint 1 — Figma e componentes | 2,00 | Entrega completa localizada. |
+| Desconto por recurso além do conteúdo | 0,00 | Nenhum desconto aplicado. |
+| **Total** | **2,30** |  |
 
-Você usou chaves com o nome do projeto, ternário (feita)/(pendente), className no destaque e map com key. O registro.md explica bem a diferença entre expressão e comando, com exemplo do seu projeto. Entrega completa.
+## Entregas localizadas
 
-**Nota das Aulas 04 e 05: 0,20 de 0,20.**
+Foi localizada uma entrega do primeiro checkpoint, que consistia em escolher uma tela do Figma, dividir a interface em componentes e implementar a parte solicitada em React. A entrega foi considerada realizada conforme a proposta da atividade e recebeu a nota integral de **2,00 pontos**.
+**Evidência:** `victorgji/atividades-do-grupo:Mateus Correa/estudos/index.html`
+Os recursos utilizados estão de acordo com o conteúdo trabalhado: JSX, componentes, `props`, `map`, `key`, ternário, `className`, Fragment e HTML/CSS. Não foi aplicado desconto.
+
+## Situação das aulas
+
+- **Aula 01:** entrega parcial, registrada com 0,05.
+- **Aula 02:** entrega parcial, registrada com 0,05.
+- **Aula 03:** não foi localizada entrega válida; nota registrada 0,00.
+- **Aula 04:** entrega registrada com nota integral de 0,10.
+- **Aula 05 — JSX:** entrega registrada com nota integral de 0,10.
+
+A nota foi atribuída com base nos arquivos e registros encontrados nos repositórios mapeados. Nenhum desconto foi aplicado por uso de recurso além do conteúdo das aulas.
